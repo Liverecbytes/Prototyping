@@ -1,4 +1,4 @@
-import Header from "@/components/Header";
+/* import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
 import JobRecommendations from "@/components/JobRecommendations";
 import WhyChooseUs from "@/components/WhyChooseUs";
@@ -31,3 +31,4 @@ export default function Home() {
     </div>
   );
 }
+*/
