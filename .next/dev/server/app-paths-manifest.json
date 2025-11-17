@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/wireframe/jobs/page": "app/wireframe/jobs/page.js",
+  "/wireframe/page": "app/wireframe/page.js",
+  "/wireframe/search-jobs/page": "app/wireframe/search-jobs/page.js"
+}
